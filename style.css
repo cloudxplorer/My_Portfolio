@@ -1,0 +1,108 @@
+body.page-bg {
+  background-color: rgb(231, 180, 180);
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+.navbar {
+  background-color: #333;
+  padding: 10px;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-list li {
+  margin-right: 20px;
+}
+
+.nav-list a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.nav-list a:hover {
+  color: #ffcc00;
+}
+
+.title {
+  text-align: center;
+}
+
+.intro {
+  text-align: center;
+  padding: 10px 30px;
+}
+
+.section {
+  padding: 20px;
+  
+}
+
+.profile-img {
+  width: 200px;
+  height: 200px;
+  border-radius: 20%;
+  border : 5px black ;
+}
+
+.edu-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.edu-table th,
+.edu-table td {
+  border: 2px solid black;
+  padding: 8px;
+  text-align: center;
+}
+
+.card {
+  background: white;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  margin: 5px 0;
+  padding: 8px;
+}
+
+.contact-form button {
+  background: #333;
+  color: white;
+  padding: 8px 15px;
+  border: none;
+  cursor: pointer;
+}
+
+.footer {
+  text-align: center;
+  background: #333;
+  color: white;
+  padding: 10px;
+}
+.h2 {
+    text-align: center;
+}
+.h22 {
+    text-align: center;
+}
+ .h45 {
+    text-align: center;
+
+}
+.h222 {
+    text-align: center;
+}
+.h232{
+    text-align: center;
+}
